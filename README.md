@@ -37,7 +37,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p>
   <a >
-    <img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,dart,flutter,js,nodejs,express,mongodb,mysql,sqlite,html,css,bootstrap,c,cpp,py,flask,dotnet,git,github,linux" />
+    <img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,dart,flutter,js,php,nodejs,express,mongodb,mysql,sqlite,aws,postman,notion,html,css,bootstrap,jquery,c,cpp,py,flask,dotnet,git,github,linux" />
   </a>
 </p>
 
