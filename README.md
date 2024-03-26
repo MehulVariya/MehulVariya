@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full stack developer from India</h3>
 
 
-![code](https://github.com/MUHAMMEDSINANCP/MUHAMMED-SINAN-CP/assets/68960205/17edb6c9-518f-476d-849c-91f3886ac2fa)
+![code](https://github.com/MehulVariya/Happy-Valentine-Day-Wishes/blob/main/image_code.gif)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehulvariya&label=Profile%20views&color=0e75b6&style=flat" alt="mehulvariya" /> </p>
 
